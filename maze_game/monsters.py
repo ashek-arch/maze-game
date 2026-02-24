@@ -49,3 +49,4 @@ class Monster:
         else:
             print("ПОТРАЧЕНО")
             return False
+            
